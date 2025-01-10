@@ -18,7 +18,7 @@ CS50x is Harvard University's entry-level course in computer science designed to
 The repository is organized as follows:
 
 ```
-📂 CS50x
+📂 CS50CompSci
 ├── 📁 Week0
 │   ├── 📁 Problem Sets
 ├── 📁 Week1
