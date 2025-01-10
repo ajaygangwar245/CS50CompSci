@@ -25,7 +25,7 @@ The repository is organized as follows:
 │   ├── 📁 Problem Sets
 ...
 ├── 📁 Final Project
-│   ├── 📁 portfolio
+│   ├── 📁 portfolio-website
 ```
 
 Each folder corresponds to a week/module of the course, and the files inside represent individual assignment problems, exercises, or projects.
@@ -37,8 +37,8 @@ Feel free to explore the code in this repository.
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ajaygangwar245/CS50x.git
-   cd CS50x
+   git clone https://github.com/ajaygangwar245/CS50CompSci.git
+   cd CS50CompSci
    ```
 
 3. Navigate to the file's directory and execute it:
