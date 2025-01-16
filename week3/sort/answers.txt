@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: In best case (i.e., sorted numbers) it takes less time.
+
+sort2 uses: Merge Sort
+
+How do you know?: It takes less time from other two algorithms while sorting random and reversed numbers for large dataset files.
+
+sort3 uses: Selection Sort
+
+How do you know?: Even when numbers are sorted it still takes highest time.
