@@ -1,0 +1,9 @@
+Ques: If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+Ans: Below given more in-depth data based on the energy, valence and danceability of the music that user perfers to listen.
+     Average energy is 0.659.
+     Average valence is 0.484.
+     Average danceability is 0.716.
+     From above data we can conclude that mostly the user listens songs with slightly high energy and danceable songs. But mid value of valence shows us that user listens both positive and slightly more negative kind of music. Hence, user falls in 'Blue' group of audio aura as, Blues are wistful or emotional, and this hue reflects listeners who seek out music to feel their feelings out loud.
+
+Ques: Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+Ans: This aura might not be very representative of the listener as we need nore data about users likes and dislikes, it cannot be judged on the basis of just top 100 songs.
