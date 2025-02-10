@@ -11,7 +11,7 @@ CS50x is Harvard University's entry-level course in computer science designed to
 - **Software Engineering**: Building software, debugging, and optimizing performance
 - **Web Development**: Basics of front-end and back-end web development
 - **Security**: Basic security concepts such as encryption and cryptography
-- **Programming Languages**: Scratch, C, Python, SQL, HTML, CSS and JavaScript.
+- **Programming Languages**: Scratch, C, Python, SQL, HTML, CSS, JavaScript and Flask.
 
 
 ## Repository Structure
