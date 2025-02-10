@@ -1,0 +1,24 @@
+HTML tags used:
+    <nav> - navigation bar
+    <div> - division tag
+    <a> - anchor tag
+    <em> - emphasize text tag
+    <p> - paragraph tag
+    <ul> - unordered list tag
+    <li> - list tag
+    <img> - image tag
+    <strong> - bold text tag
+    <h1> <h3> <h4> <h6> - heading tag
+    <hr> - horizontal line/row tag
+
+CSS properties:
+    margin
+    padding
+    border
+    background-color
+    text-decoration
+    font-size
+    color
+
+Explanation:
+I've used javascript to send user's query to me at my contact.html page and used bootstrap to make dynamic navbar and position items on page.
