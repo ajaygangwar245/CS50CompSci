@@ -1,0 +1,97 @@
+/* Stylesheet for my website. */
+.indent
+{
+    margin-left: 200pt;
+    margin-right: 200pt;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+h1, h2, h3
+{
+    margin-left: 200pt;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+h4, h5, h6
+{
+    margin-left: 200pt;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+p
+{
+    margin-left: 200pt;
+    margin-right: 200pt;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border-radius: 0px;
+}
+
+/* Indents an image. */
+.indent_img
+{
+    margin-top: 20px;
+    margin-left: 200pt;
+    margin-right: 200pt;
+    border: 2px solid grey;
+    border-radius: 8px;
+    width: 200px;
+}
+
+body
+{
+    color: black;
+    background-color: white;
+}
+
+/* Solid border. */
+hr.solid
+{
+    margin-left: 200pt;
+    margin-right: 200pt;
+    border-top: 3px solid #C0C0C0;
+    border-radius: 5px;
+}
+
+/* Non-bulleted list */
+.no-bullets
+{
+    list-style-type: none !important;
+}
+
+.link-text
+{
+    text-decoration: none;
+    font-size: 27px;
+    color: black;
+}
+
+.icon-size
+{
+    font-size: 36px !important;
+}
+
+.lin
+{
+    color: #0077b5;
+}
+
+
+input
+{
+    margin: 10px 0 10px 0;
+}
+
+/* hover over nav bar */
+.nav-link:hover
+{
+    border-bottom: 1.5px solid white;
+}

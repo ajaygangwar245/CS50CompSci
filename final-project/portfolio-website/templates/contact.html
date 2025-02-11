@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Contact
+{% endblock %}
+
+{% block main %}
+    <h1>Contact</h1>
+    <hr class="solid">
+    <ul class="indent no-bullets" style="list-style-type: none;">
+        <li class="list-item"><a href="https://in.linkedin.com/in/ajaygangwar" class="link-text" target="_blank" rel="noopener"><i class="fa fa-linkedin-square icon-size lin"></i>&nbsp; @ajaygangwar</a></li>
+        <li class="list-item"><a href="https://github.com/ajaygangwar245" class="link-text" target="_blank" rel="noopener"><i class="fa fa-github-square icon-size"></i>&nbsp; @ajaygangwar245</a></li>
+    </ul>
+
+    <h3>Send Your Query</h3>
+    <hr class="solid">
+    <form class="indent" action="/contact" method="post">
+        <input type="text" autocomplete="off" autofocus placeholder="Your Name" name="name" id="name">
+        <br>
+        <input type="text" autocomplete="off" placeholder="Your Query" name="query" id="query">
+        <br>
+        <input type="email" autocomplete="off" name="email" pattern=".+@.+\.com" id="email" placeholder="Email">
+        <br>
+        <button type="submit">Send</button>
+    </form>
+{% endblock %}
